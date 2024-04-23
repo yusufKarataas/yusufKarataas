@@ -3,5 +3,5 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,firebase&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase&perline=10)](https://skillicons.dev)
 
