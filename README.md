@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chatting App<br>🌱 I’m currently learning Flutter<br>
+🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Flutter<br>
 
 
 # 💻 Tech Stack:
